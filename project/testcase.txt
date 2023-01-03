@@ -1,0 +1,31 @@
+#first case
+
+
+class A{
+
+}
+
+class A{
+
+}
+
+$second case
+class A inherit B{
+
+}
+
+#third case
+class A implement B{
+
+}
+
+$fourth case
+class A inherit B,C{
+
+}
+
+#fifth case
+class A{
+    int a
+    int a
+}

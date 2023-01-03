@@ -1,0 +1,16 @@
+class B{
+
+}
+class B{
+int a;
+int a;
+}
+class A inherit B,C{
+int a
+}
+
+
+
+
+
+

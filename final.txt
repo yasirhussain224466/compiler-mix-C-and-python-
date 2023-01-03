@@ -1,0 +1,14 @@
+class B{
+
+}
+class H{
+ 
+}
+class S inherit B,H{
+int a
+}
+
+if(true){
+    int a
+}
+
